@@ -5,9 +5,6 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vineet2511SRM&style=for-the-badge&color=blue" alt="profile views" />
-</p>
 
 ---
 
@@ -60,11 +57,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=radical&no-frame=true&row=2&column=4" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0078D6/Vineet2511SRM" alt="Vineet's GitHub Contributions" />
-</p>
-
 ---
 
 ## 🐍 Commit Snake Animation
