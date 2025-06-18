@@ -58,11 +58,15 @@
 
 
 
-### 📈 Stats 
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=fe428e&icon_color=ffe600" alt="Vineet's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet2511SRM&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="200"/>
 </p>
+
 
 ### Contribution
 <p align="center">
