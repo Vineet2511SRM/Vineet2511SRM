@@ -45,34 +45,23 @@
 
 ---
 
----
 
----
 
----
-
-### 📈 Stats That Slap
-
+### 📈 Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=fe428e&icon_color=ffe600" alt="Vineet's GitHub Stats" width="48%"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
----
-
-### 🌍 Contributions Heatmap
-
+### Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet2511SRM&theme=high-contrast&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/Vineet2511SRM" alt="Vineet's GitHub Contributions Graph" />
 </p>
 
----
 
-### 🏆 GitHub Trophies – Because Why Not?
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=darkhub&no-frame=true&no-bg=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" alt="GitHub Trophies"/>
-</p>
+
+
 
 ---
 
