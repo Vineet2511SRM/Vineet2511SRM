@@ -82,3 +82,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+Loading...;Cybersecurity+Curious+%F0%9F%94%90;Gen-Z+Coder+Vibes+Only;Never+Stop+Learning+%F0%9F%93%9A" />
 </p>
+
+![Snake animation](https://github.com/Vineet2511SRM/Vineet2511SRM/blob/output/github-contribution-grid-snake.svg)
+
