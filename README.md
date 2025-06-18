@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Vineet2511SRM
-- 👀 I’m interested in backend developing and cyber security
-- 🌱 I’m currently learning c++ and java
-- 💞️ I’m looking to collaborate on front end developing languages like typescript javascript etc
-- 📫 How to reach me https://www.instagram.com/vineet__seth/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hey there! 👋 I'm Vineet Seth</h1>
+<h3 align="center">🚀 CSE @ SRM University | 💻 Future Full-Stack Dev | 🔐 Cybersecurity Enthusiast</h3>
 
-<!---
-Vineet2511SRM/Vineet2511SRM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🧠 Currently pursuing **B.Tech in Computer Science (Cybersecurity)** at SRM University  
+- 💻 Learning Full-Stack Development & Ethical Hacking  
+- 🏏 Off-code: I’m either smashing sixes or exploring tech trends  
+- ✨ Motto: *Code. Break. Fix. Repeat.*
+
+---
+
+### 🚀 Tech Stack
+```html
+Languages  : C++, Java, Python, HTML, CSS, JavaScript  
+Frameworks : Learning React & Django  
+Tools      : Git, VS Code
