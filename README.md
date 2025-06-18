@@ -25,14 +25,20 @@ Tools      : Git, GitHub, VS Code, Figma, Postman
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=radical" alt="Vineet's GitHub Stats" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineet2511SRM&theme=radical" alt="Vineet's GitHub Streak" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineet's GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineet2511SRM&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=radical" alt="Top Langs" width="60%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet2511SRM&theme=tokyo-night&hide_border=true&area=true" alt="Vineet's Contribution Graph"/>
 </p>
+
+---
 
 ---
 
