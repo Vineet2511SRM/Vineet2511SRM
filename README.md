@@ -27,16 +27,33 @@ Tools      : Git, GitHub, VS Code, Figma, Postman
 
 ---
 
-### 📊 GitHub Stats & Contributions
+---
+
+### 📈 Stats That Slap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineet's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineet2511SRM&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=fe428e&icon_color=ffe600" alt="Vineet's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet2511SRM&hide_border=true&theme=radical&background=0D1117&currStreakLabel=ff4c61" alt="GitHub Streak" width="48%"/>
 </p>
 
+---
+
+### 🌍 Contributions Heatmap
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet2511SRM&theme=tokyo-night&hide_border=true&area=true" alt="Vineet's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet2511SRM&theme=high-contrast&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+---
+
+### 🏆 GitHub Trophies – Because Why Not?
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=darkhub&no-frame=true&no-bg=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" alt="GitHub Trophies"/>
+</p>
+
+---
+
 
 ---
 
