@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00bcd4;">Vineet Seth</span></h1>
-<h3 align="center">🚀 CSE @ SRM | 💻 Full-Stack Dev in Progress | 🛡️ Cybersecurity Ka Khatarnak Shauk</h3>
+<h3 align="center">🚀 CSE @ SRM | 💻 Full-Stack Dev in Progress | 🛡️ Cybersecurity Learning in progress</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
@@ -12,7 +12,7 @@
 
 - 🎓 **B.Tech CSE - Cybersecurity**, SRM University, Chennai  
 - 🧑‍💻 Learning full-stack dev, exploring ethical hacking  
-- ⚡ *“Jaat roots + Geeky boots”*  
+- ⚡ *“Up roots + Geeky boots”*  
 - 🏏 Off-code: Cricket, Music, and random tech rabbit holes  
 - 🔁 Motto: *Code. Break. Fix. Repeat.* 🔁
 
