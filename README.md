@@ -57,13 +57,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=radical&no-frame=true&row=2&column=4" />
 </p>
+
 ---
 
 ## 🐍 Commit Snake Animation
 
-<p align="center">
-  <img src="https://github.com/Vineet2511SRM/Vineet2511SRM/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</p>
+
+<!-- Snake Graph -->
+<img src="https://raw.githubusercontent.com/Vineet2511SRM/Vineet2511SRM/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
