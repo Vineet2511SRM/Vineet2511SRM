@@ -53,10 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=dracula" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vineet2511SRM&theme=dracula&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
 
 
 <p align="center">
