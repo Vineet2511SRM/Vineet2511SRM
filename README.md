@@ -46,19 +46,18 @@
 </p>
 
 ---
-
 ## 📈 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=dracula" height="200"/>
 </p>
+
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=radical&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=dracula&no-frame=true&row=2&column=4" />
 </p>
-
----
 
 ## 🐍 Commit Snake Animation
 
