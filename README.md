@@ -4,9 +4,9 @@
   🧠 Passionate about tech | 💻 Future Full-Stack Dev | 🛡️ Cybersecurity in my DNA  
 </p>
 
-<h3 align="center">🚀 CSE @ SRM | 💻 Budding Full-Stack Dev | 🛡️ Aspiring Cybersecurity Pro</h3>
+<h3 align="center">🚀 CSE @ SRM | 💻 Budding Full-Stack Dev | 🛡️ Aspiring Cybersecurity student</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
