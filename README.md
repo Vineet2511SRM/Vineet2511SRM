@@ -6,7 +6,7 @@
 
 <h3 align="center">🚀 CSE @ SRM | 💻 Budding Full-Stack Dev | 🛡️ Aspiring Cybersecurity Pro</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
