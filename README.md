@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 My Current Tech Stack
 
 <h2 align="center">🛠️ Tools I’m Playing With</h2>
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔗 Let’s Connect
+## ?🤗 Let's connect with Me
 
 <p align="center">
   <a href="mailto:emperorvineet7@gmail.com">
