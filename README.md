@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 My Current TeCh sTaCk
+## 🚀 My CuRReNt TeCh sTaCk
 
 <h2 align="center">🛠️ Tools I’m Playing With</h2>
 
