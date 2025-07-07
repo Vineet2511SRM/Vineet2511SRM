@@ -64,7 +64,7 @@
 
 ---
 
-## 🥰🤗 Let's connect with Me
+## 🥰🤗 How to reach Me
 
 <p align="center">
   <a href="mailto:emperorvineet7@gmail.com">
