@@ -1,10 +1,10 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00bcd5;">Vineet Seth</span></h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bcd7;">Vineet Seth</span></h1>
 
 <p align="center">
-  🧠 Passionate about tech | 💻 Future Full-Stack Dev | 🛡️ Cybersecurity is in my DNA  
+  🧠 Passionate about tech | 💻 Future Full-Stack Developer | 🛡️ Cybersecurity is in my DNA  
 </p>
 
-<h3 align="center">🚀 CSE @ SRM | 💻 Budding Full-Stack Dev | 🛡️ Aspiring Cybersecurity student</h3>
+<h3 align="center">🚀 CSE @ SRM KTR | 💻 Budding Full-Stack Dev | 🛡️ Aspiring Cybersecurity student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="210" />
