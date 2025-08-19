@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Know About Me
 
 - 🎓 Currently pursuing B.Tech in Computer Science @ SRMIST  
 - 🔐 Cybersecurity is more than passion—it's instinct  
