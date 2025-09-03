@@ -1,4 +1,4 @@
-<h1 align="center">Hii Everyone 👋 I'm <span style="color:#00bcd7;">Vineet Seth</span></h1>
+<h1 align="center">Hello Everyone 👋 I'm <span style="color:#00bcd7;">Vineet Seth</span></h1>
 
 <p align="center">
   🧠 Tech Enthusiast | 💻 Full-Stack Dev in Progress | 🛡️ Cybersecurity Buff  
