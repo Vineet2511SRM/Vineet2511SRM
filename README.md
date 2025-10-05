@@ -20,7 +20,7 @@
 - 🛡️ Cybersecurity Obsessed
 # 🏏 Cricket | 🎶 Lo-Fi | 🔥 Late Night Debugger
 ⚔️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,git,github,vscode&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,git,github,vscode,linux&theme=dark" /> </p>
 🛰️ GitHub Radar
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vineet2511SRM&show_icons=true&theme=neon&count_private=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Vineet2511SRM&theme=neon" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2511SRM&layout=compact&theme=cyan" height="180"/> </p>
 🏆 Achievements (Trophy Case)
