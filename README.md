@@ -39,7 +39,7 @@
 
 ---
 
-### 🏆 Achievements (Trophy Case)
+### 🏆 Achievements(Trophy Case)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vineet2511SRM&theme=matrix&no-frame=true&row=2&column=4" />
 </p>
