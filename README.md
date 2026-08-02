@@ -71,7 +71,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect 
 <p align="center">
   <a href="mailto:emperorvineet7@gmail.com"><img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Vineet2511SRM"><img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" /></a>
